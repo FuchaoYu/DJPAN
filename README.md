@@ -6,6 +6,6 @@ Quick Testing
 --
  Then run the codes in "DeepDA" to train models using the main.
 
-Citation
+Acknowledgments and Citation
 --
-Please dive credit to this paper if this code is useful and helpful for your research.
+This code is completed based on Wang Jindong's work.
