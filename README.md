@@ -8,4 +8,4 @@ Quick Testing
 
 Acknowledgments and Citation
 --
-This code is completed based on Wang Jindong's work.
+This code is completed based on Wang Jindong's work(https://github.com/jindongwang/transferlearning/edit/master/code/DeepDA)().
